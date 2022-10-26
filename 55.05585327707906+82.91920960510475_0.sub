@@ -1,0 +1,8 @@
+Filetype: Flipper SubGhz Key File
+Version: 1
+Frequency: 433920000
+Preset: FuriHalSubGhzPresetOok650Async
+Protocol: CAME
+Bit: 12
+Key: 00 00 00 00 00 00 03 04
+Repeat: 3
